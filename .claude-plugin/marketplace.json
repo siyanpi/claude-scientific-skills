@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "literature-review",
-      "description": "Systematic literature review skill for academic research: PubMed search strategy, evidence synthesis, gap analysis, and structured review writing for biomedical and TCM topics.",
+      "description": "Systematic literature review skill for academic research: PubMed search strategy, evidence synthesis, gap analysis, structured review writing, citation verification (3-layer DOI check), AI-pattern removal, and Word/PDF export via Pandoc.",
       "author": {
         "name": "siyanpi"
       },

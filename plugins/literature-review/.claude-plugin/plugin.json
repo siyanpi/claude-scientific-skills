@@ -1,7 +1,7 @@
 {
   "name": "literature-review",
-  "version": "1.0.0",
-  "description": "Systematic literature review for biomedical and TCM research",
+  "version": "1.1.0",
+  "description": "Systematic literature review for biomedical and TCM research — with citation verification, AI-pattern removal, and Word/PDF export",
   "author": {
     "name": "siyanpi",
     "url": "https://github.com/siyanpi"
@@ -9,5 +9,5 @@
   "homepage": "https://github.com/siyanpi/claude-scientific-skills",
   "repository": "https://github.com/siyanpi/claude-scientific-skills",
   "license": "MIT",
-  "keywords": ["research", "literature-review", "biomedical", "TCM", "academic"]
+  "keywords": ["research", "literature-review", "biomedical", "TCM", "academic", "citation-verification", "pandoc", "export"]
 }
