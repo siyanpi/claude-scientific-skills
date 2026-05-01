@@ -1,0 +1,13 @@
+{
+  "name": "literature-review",
+  "version": "1.0.0",
+  "description": "Systematic literature review for biomedical and TCM research",
+  "author": {
+    "name": "siyanpi",
+    "url": "https://github.com/siyanpi"
+  },
+  "homepage": "https://github.com/siyanpi/claude-scientific-skills",
+  "repository": "https://github.com/siyanpi/claude-scientific-skills",
+  "license": "MIT",
+  "keywords": ["research", "literature-review", "biomedical", "TCM", "academic"]
+}

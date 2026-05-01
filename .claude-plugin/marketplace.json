@@ -1,0 +1,26 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-scientific-skills",
+  "description": "Claude Code marketplace for scientific research — literature review, paper writing, experiment analysis, and biomedical research support",
+  "owner": {
+    "name": "siyanpi",
+    "url": "https://github.com/siyanpi"
+  },
+  "plugins": [
+    {
+      "name": "literature-review",
+      "description": "Systematic literature review skill for academic research: PubMed search strategy, evidence synthesis, gap analysis, and structured review writing for biomedical and TCM topics.",
+      "author": {
+        "name": "siyanpi"
+      },
+      "category": "research",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/siyanpi/claude-scientific-skills.git",
+        "path": "plugins/literature-review",
+        "ref": "main"
+      },
+      "homepage": "https://github.com/siyanpi/claude-scientific-skills/tree/main/plugins/literature-review"
+    }
+  ]
+}
